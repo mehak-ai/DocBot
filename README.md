@@ -152,5 +152,3 @@ Open your browser at `http://localhost:8501` to start chatting with your PDFs!
 * **Model Selection:** The `docbot.py` is currently configured to use Groq. Ensure your `.env` file has a valid `GROQ_API_KEY`.
 * **Warnings:** You may see "dangerous deserialization" warnings from FAISS. This is normal when loading local files you created yourself; the code includes `allow_dangerous_deserialization=True` to handle this.
 
-```
-
