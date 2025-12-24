@@ -1,5 +1,4 @@
 
-```markdown
 # 📄 PDF Chatbot with RAG (LangChain + Streamlit)
 
 A **Retrieval-Augmented Generation (RAG)** application that allows users to chat with their PDF documents. This project uses **LangChain**, **FAISS** for vector storage, and integrates **HuggingFace** and **Groq** LLMs to provide accurate answers based on document context.
@@ -155,4 +154,3 @@ Open your browser at `http://localhost:8501` to start chatting with your PDFs!
 
 ```
 
-```
